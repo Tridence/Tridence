@@ -19,7 +19,7 @@
   
 </p>
 
-<p align='center'>
+<p >
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/manjaro-%230078D6.svg?&style=for-the-badge&logo=manjaro&logoColor=white%22%22" />
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
