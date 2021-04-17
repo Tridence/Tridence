@@ -47,8 +47,9 @@
 
 ------------
 ------------
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tridence.tridence
+<center>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tridence.tridence)
+</center>
 <p align="center">Hipsters and Nerds have come here. It's an open street o/</p>
 <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
