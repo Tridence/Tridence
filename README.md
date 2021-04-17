@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning \\ ReactJs
 - 👯 I’m looking to collaborate on small, long term projects
 - 💬 Ask me about: The world, Conspiracy theories, Poems, African culture, Conflicting topics; basically, lets talk about nature.
-- 📫 Contact Me: [![Linkedin Badge](https://img.shields.io/badge/-Brian Wanjala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brian-wanjala-324b57180//)](https://www.linkedin.com/in/brian-wanjala-324b57180/)
-[![Instagram Badge](https://img.shields.io/badge/-wanjiii_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wanjiii_/)](https://instagram.com/wanjiii_)
-[![Gmail Badge](https://img.shields.io/badge/-brianwanjalabarasa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brianwanjalabarasa@gmail.com)](mailto:brianwanjalabarasa@gmail.com)
 
 - 😄 Pronouns: ...  He/ His/ Him and I am from KE
 - ⚡ Fun fact: ... I add bugs to plain text :wink:
