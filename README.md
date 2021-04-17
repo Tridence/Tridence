@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
   
 </p>
-
+------------------------------------------------------------------------------
 <p >
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/manjaro-%230078D6.svg?&style=for-the-badge&logo=manjaro&logoColor=white%22%22" />
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
-
+------------------------------------------------------------
 <h3>⚡ Tools of work: <h3>
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -40,7 +40,6 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ----------------------------------------------------------------
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tridence&show_icons=true&count_private=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tridence&hide=TeX&layout=compact&theme=dark)
