@@ -1,11 +1,26 @@
-## Hi there 👋
-- 🔭 I’m currently working on creating apps with React
-- 🌱 I’m currently learning \\ ReactJs
-- 👯 I’m looking to collaborate on small, long term projects
-- 💬 Ask me about: The world, Conspiracy theories, Poems, African culture, Conflicting topics; basically, lets talk about nature.
+<h1 align='center'>
+  Hi there 👋 I'm Brian Wanjala 👨‍💻
+</h1>
 
-- 😄 Pronouns: ...  He/ His/ Him and I am from KE
-- ⚡ Fun fact: ... I add bugs to plain text :wink:
+<p align='center'>
+  A Front End developer from Nairobi, Kenya.
+</p>
+
+
+
+<p align='center'>
+  
+  <!--<a href="https://wa.me/+254716304035?text=Hi!%20Brian...">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>&nbsp;&nbsp;-->
+  <a href="https://www.linkedin.com/in/brian-wanjala-324b57180/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/wanjiii_">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
 <h3>⚡ Tools of work: <h3>
   
@@ -36,7 +51,9 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 17 April, 11:08 EAT <br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/tridence/tridence/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/tridence/tridence?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/tridence/tridence?style=flat-square&labelColor=343b41"/></p>
+<p align="center">Hipsters and Nerds have come here. It's an open street o/</p>
+<p align='center'>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+</p>
 
 
