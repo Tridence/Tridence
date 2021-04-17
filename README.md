@@ -33,11 +33,9 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tridence&show_icons=true&count_private=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tridence&hide=TeX&layout=compact&theme=dark)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tridence.tridence)
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/tridence" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
@@ -48,6 +46,7 @@
 </p>
 
 ------------
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tridence.tridence)
 <p align="center">Hipsters and Nerds have come here. It's an open street o/</p>
 <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
