@@ -58,8 +58,6 @@
 
 ------------
 <p align="center">Hipsters and Nerds have come here. It's an open street o/</p>
-------------
-
 <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
