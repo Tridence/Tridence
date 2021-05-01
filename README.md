@@ -23,8 +23,9 @@
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/manjaro-%230078D6.svg?&style=for-the-badge&logo=manjaro&logoColor=white%22%22" />
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i7%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i7%206th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/X1-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
 
 <h3>⚡ Tools of work: <h3>
