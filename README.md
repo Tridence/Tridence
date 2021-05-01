@@ -21,11 +21,10 @@
 
 <p >
   💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/X1 Carbon-%230078D6.svg?&style=for-the-badge&logo=lenovo&logoColor=white%22%22" />
+  <img src="https://img.shields.io/badge/X1%20Carbon-Lenovo-red.svg?&style=for-the-badge&logo=X1&logoColor=white" />
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i7%206th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/X1%20Carbon-Lenovo-red.svg?&style=for-the-badge&logo=X1&logoColor=white" />
 </p>
 
 <h3>⚡ Tools of work: <h3>
