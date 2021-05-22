@@ -6,6 +6,11 @@
   A Front End developer from Nairobi, Kenya.
 </p>
 
+<p>
+I nearly forgot; I'm actively translating Swahili language for <a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank">Microsoft (Web-Dev-for-Beginners)</a>
+</p>
+
+
 <p align='center'>   
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/brian-wanjala-324b57180/">
@@ -62,6 +67,3 @@
 <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
   </p>
-### Contributions
-I nearly forgot; I'm actively translating Swahili language for <a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank">Microsoft (Web-Dev-for-Beginners)</a>
-
