@@ -63,5 +63,5 @@
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
   </p>
 ### Contributions
-I nearly forgot; I'm actively translating Swahili language for Microsoft (Web-Dev-for-Beginners)<a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank">/></a>
+I nearly forgot; I'm actively translating Swahili language for <a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank">Microsoft (Web-Dev-for-Beginners)</a>
 
