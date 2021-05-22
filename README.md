@@ -6,7 +6,7 @@
   A Front End developer from Nairobi, Kenya.
 </p>
 
-<p>
+<p align='center'>
 I nearly forgot; I'm actively translating Swahili language for <a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank">Microsoft (Web-Dev-for-Beginners)</a>
 </p>
 
