@@ -61,6 +61,7 @@
 <p align="center">Hipsters and Nerds have come here. It's an open street o/</p>
 <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
-
+  </p>
+### Contributions
+I nearly forgot; I'm actively translating Swahili language for Microsoft (Web-Dev-for-Beginners)<a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank">/></a>
 
