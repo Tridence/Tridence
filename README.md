@@ -20,7 +20,7 @@ I nearly forgot; I'm actively translating (contributing) Swahili language for <a
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <a href="https://tridence.github.io/resume/">
-    <img src="https://img.shields.io/badge/OR-Online%20Resume-blue"/>        
+    <img src="https://img.shields.io/badge/OR-Online%20Resume-blue.svg?&style=for-the-badge&logo=OR&logoColor=blue"/>        
   </a>&nbsp;&nbsp;
   <a href="https://wa.me/+254716304035?text=Hi!%20Brian...">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
