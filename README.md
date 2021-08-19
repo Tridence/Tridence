@@ -39,7 +39,7 @@ I nearly forgot; I'm actively translating (contributing) Swahili language for <a
 <h3>⚡ Tools of work: <h3>
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-red?style=flat-square&logo=Flask)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
