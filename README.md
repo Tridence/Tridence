@@ -29,7 +29,7 @@ I nearly forgot; I'm actively translating (contributing) Swahili language for <a
 
 <p >
   💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/X1-Lenovo-red.svg?&style=for-the-badge&logo=X1&logoColor=white" />
+  <img src="https://img.shields.io/badge/M1-Macbook-grey.svg?&style=for-the-badge&logo=M1&logoColor=white" />
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/manjaro-%230078D6.svg?&style=for-the-badge&logo=manjaro&logoColor=green" />
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
