@@ -27,7 +27,7 @@ I nearly forgot; I'm actively translating (contributing) Swahili language for <a
   
 </p>
 
-<p >
+<!-- <p >
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/M1-Macbook-grey.svg?&style=for-the-badge&logo=M1&logoColor=white" />
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
@@ -35,6 +35,7 @@ I nearly forgot; I'm actively translating (contributing) Swahili language for <a
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i7%206th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
 </p>
+!-->
 
 <h3>⚡ Tools of work: <h3>
   
