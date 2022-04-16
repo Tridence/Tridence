@@ -6,10 +6,13 @@
   A Front End developer from Nairobi, Kenya.
 </p>
 
-<p align='center'>
+<!--<p align='center'>
 I nearly forgot; I'm actively translating (contributing) Swahili language for <a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank">Microsoft (Web-Dev-for-Beginners)</a>
-</p>
+</p>!-->
 
+<p align='center'>
+You can check my ranking below; currently at #254. As at 16th April 2022 <a href="https://commits.top/kenya.html" target="_blank">Most active GitHub users in Kenya</a>
+</p>
 
 <p align='center'>   
   </a>&nbsp;&nbsp;
