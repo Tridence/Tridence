@@ -11,7 +11,7 @@ I nearly forgot; I'm actively translating (contributing) Swahili language for <a
 </p>!-->
 
 <p align='center'>
-You can check my ranking below; currently at #254. As at 16th April 2022 <a href="https://commits.top/kenya.html" target="_blank">Most active GitHub users in Kenya</a>
+Currently working on Corp Security <a href="https://tridence.github.io/corpsecurity-1/" target="_blank"> A security consultant website</a>
 </p>
 
 <p align='center'>   
@@ -72,7 +72,4 @@ You can check my ranking below; currently at #254. As at 16th April 2022 <a href
 
 
 ------------
-<p align="center">Hipsters and Nerds have come here. It's an open street o/</p>
-<p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-  </p>
+
