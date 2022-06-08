@@ -30,15 +30,14 @@ Currently working on Corp Security <a href="https://corpsecurity-6hu2ll3h4-tride
   
 </p>
 
-<!-- <p >
+<p >
   💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/M1-Macbook-grey.svg?&style=for-the-badge&logo=M1&logoColor=white" />
+  <img src="https://img.shields.io/badge/HP-840%20G3-lightgrey.svg?&style=for-the-badge&logo=Hp&logoColor=lightgrey" />
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/manjaro-%230078D6.svg?&style=for-the-badge&logo=manjaro&logoColor=green" />
+  <!--<img src="https://img.shields.io/badge/manjaro-%230078D6.svg?&style=for-the-badge&logo=manjaro&logoColor=green"/>-->
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i7%206th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
 </p>
-!-->
 
 <h3>⚡ Tools of work: <h3>
   
