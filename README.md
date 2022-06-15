@@ -16,8 +16,8 @@ Currently working on Corp Security <a href="https://corpsecurity-6hu2ll3h4-tride
 
 <p align='center'>   
   </a>&nbsp;&nbsp;
-   <a href="https://tridence.github.io/resume/">
-    <img src="https://img.shields.io/badge/OR-Online%20Resume-blue.svg?&style=for-the-badge&logo=OR&logoColor=blue"/>        
+  <!-- <a href="https://tridence.github.io/resume/">
+    <img src="https://img.shields.io/badge/OR-Online%20Resume-blue.svg?&style=for-the-badge&logo=OR&logoColor=blue"/>  -->      
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/brian-wanjala-324b57180/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
