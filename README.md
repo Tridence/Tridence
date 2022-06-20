@@ -11,7 +11,7 @@ I nearly forgot; I'm actively translating (contributing) Swahili language for <a
 </p>!-->
 
 <p align='center'>
-Currently working on Corp Security <a href="[https://corpsecurity-6hu2ll3h4-tridence.vercel.app/](https://corpsecurity.vercel.app/)" target="_blank"> (A security consultant website) </a>
+Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" target="_blank"> (A security consultant website) </a>
 </p>
 
 <p align='center'>   
