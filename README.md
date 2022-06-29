@@ -13,9 +13,9 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
 
 ------------
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Brian Wanjala&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Brian Wanjala&fontSize=30&font-familyfontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My_Name+%3D+%22Wanjiii%22;Loves%3A+Tech%2C+Programming%2C;Gnu%2FLinux%2C+Open+Source+Software!;IF+(LIKE+MY+WORK)%3A+Follow+And+Star;THNX!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My_Name+%3D+%22Wanjiii%22;Loves%3A+Tech%2C+Programming%2C;Gnu%2FLinux%2C+Open+Source+Software!;IF+(LIKE+MY+WORK)%3A+Follow+And+Star;Thank you!)](https://git.io/typing-svg)
 
 <div align="center"><img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=tridence&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Brian Wanjala" /></div>
 
@@ -29,16 +29,15 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
 
 ### Main skills:
 
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
 
 ### Tools:
 
-![Pycharm](https://img.shields.io/badge/-Pycharm-0D1117?style=for-the-badge&logo=pycharm&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Vs Code](https://img.shields.io/badge/-VSCode-1f425f?style=for-the-badge&logo=VSCode&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Vs Code](https://img.shields.io/badge/-VSCode-1f425f?style=for-the-badge&logo=vscode&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
