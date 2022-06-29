@@ -15,9 +15,7 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Brian Wanjala&fontSize=30&font-familyfontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My_Name+%3D+%22Wanjiii%22;Loves%3A+Tech%2C+Programming%2C;Gnu%2FLinux%2C+Open+Source+Software!;IF+(LIKE+MY+WORK)%3A+Follow+And+Star;Thank you!)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey%2C+I+am+Brian+Wanjala.+A+Front-End+Developer+and+an+AI+Enthusiast.;I'm+interested+in+Web3%2C+Artificial+Intelligence+%26+Data+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=9000&color=3226FFC5&center=true&vCenter=true&width=2000&height=500&lines=Hi!+myName+%3D+Wanjala.+I+love+Tech%2C+Programming%2C+Open+Source+%26+Sunsets!;I'm+interested+in+Web3%2C+Artificial+Intelligence+%26+Data+Science)](https://git.io/typing-svg)
 
 
 <div align="center"><img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=tridence&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Brian Wanjala" /></div>
