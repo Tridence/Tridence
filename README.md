@@ -44,6 +44,7 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 ![Vs Code](https://img.shields.io/badge/-VSCode-%230d1117?style=for-the-badge&logo=vscode&labelColor=0D1117)&nbsp;
+https://img.shields.io/badge/-VS%20Code-%230d1117.svg?logo=visual-studio-code
 
 
 ### Other Knowledge:
