@@ -1,15 +1,3 @@
-<h1 align='center'>
-  Hi there 👋 I'm Brian Wanjala 👨‍💻
-</h1>
-
-<p align='center'>
-  A Front End developer from Nairobi, Kenya.
-</p>
-
-<!--<p align='center'>
-I nearly forgot; I'm actively translating (contributing) Swahili language for <a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank">Microsoft (Web-Dev-for-Beginners)</a>
-</p>!-->
-
 <p align='center'>
 Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" target="_blank"> (A security consultant website) </a>
 </p>
