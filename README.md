@@ -15,9 +15,11 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Brian Wanjala&fontSize=30&font-familyfontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My_Name+%3D+%22Wanjiii%22;Loves%3A+Tech%2C+Programming%2C;Gnu%2FLinux%2C+Open+Source+Software!;IF+(LIKE+MY+WORK)%3A+Follow+And+Star;Thank you!)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My_Name+%3D+%22Wanjiii%22;Loves%3A+Tech%2C+Programming%2C;Gnu%2FLinux%2C+Open+Source+Software!;IF+(LIKE+MY+WORK)%3A+Follow+And+Star;Thank you!)](https://git.io/typing-svg)
 
 <div align="center"><img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=tridence&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Brian Wanjala" /></div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tridence)](https://git.io/streak-stats)
 
 <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=tridence&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Brian Wanjala Tridence github stats" /> 
