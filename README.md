@@ -43,7 +43,6 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-![Vs Code](https://img.shields.io/badge/-VSCode-%230d1117?style=for-the-badge&logo=vscode&labelColor=0D1117)&nbsp;
 
 
 ### Other Knowledge:
@@ -53,7 +52,7 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <!-- https://profile-counter.glitch.me/{tridence}/count.svg" /> -->
-  <p align="center"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=tridence.tridence"</p> 
+  <p align="center"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=tridence.tridence&left_color=0D1117"</p> 
 <br></div>
 
 
