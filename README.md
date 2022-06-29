@@ -52,7 +52,7 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <!-- https://profile-counter.glitch.me/{tridence}/count.svg" /> -->
-  <p align="center"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=tridence.tridence&left_color=0D1117"</p> 
+  <p align="center"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=tridence.tridence&left_color=0D1117&right_color=#230d1117"</p> 
 <br></div>
 
 
