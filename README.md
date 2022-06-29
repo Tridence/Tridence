@@ -50,9 +50,10 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{tridence}/count.svg" /></p> 
+<!-- https://profile-counter.glitch.me/{tridence}/count.svg" /> -->
+  <p align="center"><img align="center" src=""https://visitor-badge.laobi.icu/badge?page_id=tridence.tridence"</p> 
 <br></div>
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=tridence.tridence)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
