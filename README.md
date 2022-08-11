@@ -57,6 +57,14 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
   <p align="center"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=tridence.tridence&left_color=0D1117&right_color=#230d1117"</p> 
 <br></div>
 
+### Socials Page:
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
