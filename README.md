@@ -18,7 +18,7 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
 
 ### Socials Page:
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/brianwanjala/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
