@@ -4,8 +4,7 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
 <h3>Where to find me</h3>
 <p><a href="https://github.com/tridence" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/wanjiiitr" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-<a href="www.instagram.com/wanjii_" target= "_blank"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p> -->
+-->
 
 
 ------------
