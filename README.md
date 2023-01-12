@@ -23,9 +23,6 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
   <a href="https://twitter.com/WanjiiiTr">
   <img src="https://img.shields.io/twitter/follow/wanjiiitr?label=Twitter&logo=twitter&style=for-the-badge&color=blue"/>
   </a>
-  <a href="https://twitter.com/WanjiiiTr">
-  <img src="https://img.shields.io/linkedin/followers/brianwanjala?label=Followers&logo=GitHub&style=for-the-badge"/>
-  </a>
 </div>
 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Brian Wanjala&fontSize=30&font-familyfontColor=fff&animation=twinkling&fontAlignY=35"/> -->
@@ -62,12 +59,12 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_PROFILE_USERNAME)](https://github.com/Tridence/readme-components-github)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_PROFILE_USERNAME)](https://github.com/Tridence/readme-components)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_PROFILE_USERNAME)](https://github.com/tridence/readme-components-github)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_PROFILE_USERNAME)](https://github.com/tridence/readme-components)
 [![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_PROFILE_USERNAME&theme=radical&hide_border=true)
 [![Github Activity graph](https://activity-graph.herokuapp.com/graph?username=YOUR_PROFILE_USERNAMEl&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)](https://github.com/Tridence/readme-components-github)
 
-[![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_PROFILE_USERNAME&repo=YOUR_REPO_NAME)](https://github.com/Tridence/readme-components-github)
+[![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_PROFILE_USERNAME&repo=YOUR_REPO_NAME)](https://github.com/tridence/readme-components-github)
 
 
 
