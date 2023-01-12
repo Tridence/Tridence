@@ -22,6 +22,12 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
   </a>
 </div>
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<!-- https://profile-counter.glitch.me/{tridence}/count.svg" /> -->
+  <p align="center"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=tridence.tridence&left_color=0D1117&right_color=#230d1117"</p> 
+<br></div>
+
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Brian Wanjala&fontSize=30&font-familyfontColor=fff&animation=twinkling&fontAlignY=35"/> -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=9000&color=3226FFC5&center=true&vCenter=true&width=2000&height=500&lines=Hi!+myName+%3D+Wanjala.+I+love+Tech%2C+Programming%2C+Open+Source+%26+Sunsets!;I'm+interested+in+Web3%2C+Artificial+Intelligence+%26+Data+Science)](https://git.io/typing-svg)
@@ -38,7 +44,6 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tridence&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>-->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tridence&theme=github_dark)
 
 ### Main skills:
 
@@ -59,11 +64,15 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
 
 ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<!-- https://profile-counter.glitch.me/{tridence}/count.svg" /> -->
-  <p align="center"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=tridence.tridence&left_color=0D1117&right_color=#230d1117"</p> 
-<br></div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tridence&theme=github_dark)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tridence&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tridence&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tridence&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tridence&theme=github_dark&utcOffset=8)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
