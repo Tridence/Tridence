@@ -36,7 +36,7 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
 </div>-->
 
 <div align="center">
-   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=tridence&theme=react-dark&hide_border=true&area=true" />
+   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tridence&theme=radical&hide_border=true" />
 </div>
 
 
@@ -54,8 +54,6 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-
-[![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tridence&theme=radical&hide_border=true)
 
 ### Other Knowledge:
 
