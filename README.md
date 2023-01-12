@@ -39,7 +39,6 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=tridence&theme=react-dark&hide_border=true&area=true" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tridence&bg_color=ffffff&color=7aca02&line=413e41&point=2d1515&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Main skills:
 
@@ -57,11 +56,11 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tridence)](https://github.com/tridence/readme-components-github)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_PROFILE_USERNAME)](https://github.com/tridence/readme-components)
-[![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_PROFILE_USERNAME&theme=radical&hide_border=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tridence)](https://github.com/tridence/readme-components)
+[![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tridence&theme=radical&hide_border=true)
 [![Github Activity graph](https://activity-graph.herokuapp.com/graph?username=YOUR_PROFILE_USERNAMEl&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)](https://github.com/Tridence/readme-components-github)
 
-[![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_PROFILE_USERNAME&repo=YOUR_REPO_NAME)](https://github.com/tridence/readme-components-github)
+[![Github Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tridence&repo=YOUR_REPO_NAME)](https://github.com/tridence/readme-components-github)
 
 
 
