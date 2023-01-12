@@ -55,7 +55,7 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
-[![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?&theme=radical&hide_border=true)
+[![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tridence&theme=radical&hide_border=true)
 
 ### Other Knowledge:
 
