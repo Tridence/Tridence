@@ -27,7 +27,10 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=9000&color=3226FFC5&center=true&vCenter=true&width=2000&height=500&lines=Hi!+myName+%3D+Wanjala.+I+love+Tech%2C+Programming%2C+Open+Source+%26+Sunsets!;I'm+interested+in+Web3%2C+Artificial+Intelligence+%26+Data+Science)](https://git.io/typing-svg)
 
 
-<div align="center"><img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=tridence&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Brian Wanjala" /></div>
+<div align="center">
+  <img height="auto" 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=tridence&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Brian Wanjala" />
+</div>
 
 
 <!--<div align="center">  
@@ -36,7 +39,7 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
 </div>-->
 
 <div align="center">
-<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tridence&theme=github_dark"</a>
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tridence&theme=github_dark"/>
 </div>
 
 ### Main skills:
