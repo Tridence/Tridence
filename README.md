@@ -62,7 +62,7 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_PROFILE_USERNAME)](https://github.com/tridence/readme-components-github)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tridence)](https://github.com/tridence/readme-components-github)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_PROFILE_USERNAME)](https://github.com/tridence/readme-components)
 [![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tridence&theme=radical&hide_border=true)
 [![Github Activity graph](https://activity-graph.herokuapp.com/graph?username=YOUR_PROFILE_USERNAMEl&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)](https://github.com/MrKrishnaAgarwal/readme-components-github)
