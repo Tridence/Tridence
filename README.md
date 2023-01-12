@@ -36,7 +36,7 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
 </div>-->
 
 <div align="center">
-   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tridence&theme=radical&hide_border=true" />
+   <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tridence&theme=radical&hide_border=true" />
 </div>
 
 
