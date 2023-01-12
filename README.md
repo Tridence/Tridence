@@ -35,10 +35,9 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tridence&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>-->
 
-
+<div align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tridence&theme=github_dark)
-
-
+</div>
 
 ### Main skills:
 
