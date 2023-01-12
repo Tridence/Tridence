@@ -20,7 +20,8 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
   <a href="https://twitter.com/WanjiiiTr">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  [![Twitter Followers](https://img.shields.io/twitter/follow/wanjiiitr?label=Twitter&logo=twitter&style=for-the-badge&color=blue)
+  [![Twitter Followers]
+  <img src="https://img.shields.io/twitter/follow/wanjiiitr?label=Twitter&logo=twitter&style=for-the-badge&color=blue"/>
 
 </div>
 
