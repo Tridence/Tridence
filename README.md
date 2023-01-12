@@ -36,7 +36,7 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
 </div>-->
 
 <div align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tridence&theme=github_dark)
+<a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tridence&theme=github_dark"</a>
 </div>
 
 ### Main skills:
