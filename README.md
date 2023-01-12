@@ -24,7 +24,7 @@ Currently working on Corp Security <a href="https://corpsecurity.vercel.app/" ta
   <img src="https://img.shields.io/twitter/follow/wanjiiitr?label=Twitter&logo=twitter&style=for-the-badge&color=blue"/>
   </a>
   <a href="https://twitter.com/WanjiiiTr">
-  <img src="https://img.shields.io/github/followers/tridence?label=Followers&logo=GitHub&style=for-the-badge"/>
+  <img src="https://img.shields.io/linkedin/followers/brianwanjala?label=Followers&logo=GitHub&style=for-the-badge"/>
   </a>
 </div>
 
