@@ -28,7 +28,7 @@ https://profile-counter.glitch.me/{tridence}/count.svg" /> -->
   <p align="center"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=tridence.tridence&left_color=0D1117&right_color=#230d1117"</p> 
 <br></div>
 
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Brian Wanjala&fontSize=30&font-familyfontColor=fff&animation=twinkling&fontAlignY=35"/> -->
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=9000&color=3226FFC5&center=true&vCenter=true&width=2000&height=500&lines=Hi!+myName+%3D+Wanjala.+I+love+Tech%2C+Programming%2C+Open+Source+%26+Sunsets!;I'm+interested+in+Web3%2C+Artificial+Intelligence+%26+Data+Science)](https://git.io/typing-svg)
 
