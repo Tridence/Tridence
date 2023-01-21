@@ -1,10 +1,4 @@
-<!--<p align='cente
-<p><a href="https://github.com/tridence" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/wanjiiitr" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
--->
-
-
-------------
+-----------
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
