@@ -4,6 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<!-- Badges -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/brianwanjala/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,6 +14,7 @@
   </a>
 </div>
 
+<!-- Visitor Count Badge -->
 <div align="center">
   <p align="center"><img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=tridence.tridence&left_color=0D1117&right_color=#230d1117"</p> 
 <br></div>
@@ -30,7 +32,7 @@
 
 
 
-
+<!-- Skills  -->
 ### Main skills:
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -39,6 +41,7 @@
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
 
+<!-- Tools of Work -->
 ### Tools:
 
 ![Vs Code](https://img.shields.io/badge/-VS%20Code-%230d1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117)&nbsp;
@@ -46,11 +49,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
+
+<!-- Other Knowledge -->
 ### Other Knowledge:
 
 ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)&nbsp;
 
-<!-- Insert Comment -->
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tridence&theme=github_dark)
 
 
